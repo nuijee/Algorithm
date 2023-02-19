@@ -1,6 +1,9 @@
 import java.util.Scanner;
-
-public class StepNumber {
+/**
+    10844
+ N자리 계단 수 (각자리숫자간 1차이) 가짓 수 구하기
+ */
+public class Q10844 {
     public void solution(){
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
